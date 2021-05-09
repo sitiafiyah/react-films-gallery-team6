@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+}
+
+.film-title {
+  padding: 15px 0;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.film-title:hover {
+  background-color: bisque;
+  cursor: pointer;
+}

@@ -1,0 +1,18 @@
+.sort-button {
+  width: 300px;
+  height: 40px;
+  margin: 0 10px;
+  border: 2px solid lightblue;
+  border-radius: 10px;
+  font-size: 20px;
+  background-color: white;
+  transition: all .5s;
+}
+
+.sort-button:hover {
+  background-color: aliceblue;
+}
+.sort-button:focus {
+  outline: none;
+  box-shadow: 0 5px 15px lightblue;
+}
