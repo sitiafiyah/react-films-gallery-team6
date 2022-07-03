@@ -12,12 +12,10 @@
     "npm": "^6.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-modal-video": "^1.2.9",
-    "react-player": "^2.10.1",
-    "react-responsive-modal": "^6.2.0",
     "react-router-dom": "^6.3.0",
     "react-scripts": "3.0.1",
-    "video-react": "^0.15.0"
+    "react-player": "1.7.0",
+    "react-responsive-modal": "3.5.1"
   },
   "scripts": {
     "start": "react-scripts start",
